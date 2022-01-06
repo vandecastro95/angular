@@ -1,0 +1,12 @@
+nav a {
+  padding: 16px 8px;
+}
+
+nav a:hover {
+  color: blue;
+  background-color: white;
+}
+
+nav a.active {
+  color: blue;
+}
